@@ -76,6 +76,13 @@ Imagem da estrutura no SharePoint:
 
 ---
 
+## 📚 Documentação
+
+- Arquitetura da solução: docs/arquitetura.md  
+- Funcionamento do sistema: docs/funcionamento.md
+
+---
+
 ## 👨‍💻 Autor
 
 Vinnícius Bandeira
