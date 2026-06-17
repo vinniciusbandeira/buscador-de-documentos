@@ -64,7 +64,7 @@ A solução utiliza recursos nativos do SharePoint, como bibliotecas de document
 
 Imagem da estrutura no SharePoint:
 
-![Exemplo SharePoint](imagens/exemplo-sharepoint.png)
+![Exemplo SharePoint](imagens/buscador_documentos_layout.png)
 
 ---
 
